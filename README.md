@@ -1,0 +1,1 @@
+This is a simple script you can copy paste to uBlock Origin or Brave Shields to completely block the annoying Google nag popup "See results closer to you?" when searching Google without turning location on. It works for both PC and Android, allowing you to search anonymously on Google without being annoyed by the popup.
